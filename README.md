@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi! I'm A. Dzaky ✨
 
-<!--
-**adzaky/adzaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Full Stuck Developer"
 
-Here are some ideas to get you started:
+## 🔗 Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/adlimdzaky) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/adlimdzaky) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhadlim17@gmail.com)
+[![Programming Tadulako](https://img.shields.io/badge/Programming%20Tadulako-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Programming-Tadulako/) [![HammerCode (HMC)](<https://img.shields.io/badge/HammerCode%20(HMC)-181717?style=flat-square&logo=github&logoColor=white>)](https://github.com/hammercode-dev)
+
+## 💻 Tech Stack
+
+| **Category**  | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-639?style=flat-square&logo=css&logoColor=fff) ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/Typescript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)                                                                                                                                                                                                                                              |
+| **Frontend**  | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square&logo=shadcnui&logoColor=fff) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff) |
+| **Backend**   | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-orange?style=flat-square&logo=bun) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=fff) ![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)                                                              |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)                                                                                                                          |
+| **Cloud**     | ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=msazure&logoColor=white)                                                                  |
+
+## 🧩 Featured Projects
+
+- **PPM FATEK Universitas Tadulako Quality Assurance** — Website QA & Campus Accreditation with categories: Documentation System, Activity Reports, Academic/Non-Academic SOPs, etc. [[GitHub](https://github.com/ppm-fatek-untad)]
+- **HammerCode Web** — Landing page website for HMC, featuring profile and events organized by HMC. [[GitHub](https://github.com/hammercode-dev)]
+- **Programming Tadulako Web** — Landing page website for Programming Tadulako, featuring the community profile. [[GitHub](https://github.com/Programming-Tadulako)]
+- **MAt-tA Mobile** — React-Native e-commerce app for eyewear with AR try-on (FaceLandmarker), 3D 360-viewer, PD auto-measure, secure checkout. (Internship at Qbit) [[PlayStore](https://play.google.com/store/apps/details?id=com.matta)]
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=adzaky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adzaky&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false)
+
+![Streak](https://streak-stats.demolab.com?user=adzaky&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)
