@@ -26,8 +26,8 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=adzaky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&hide_border=false)
+![Stats](https://github-stats-orcin-five.vercel.app/api?username=adzaky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adzaky&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false)
+![Top Langs](https://github-stats-orcin-five.vercel.app/api/top-langs?username=adzaky&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false)
 
-![Streak](https://streak-stats.demolab.com?user=adzaky&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)
+![Streak](https://github-readme-streak-stats-mu-inky.vercel.app?user=adzaky&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)
