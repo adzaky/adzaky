@@ -28,6 +28,6 @@
 
 ![Stats](https://github-stats-orcin-five.vercel.app/api?username=adzaky&commits_year=current&include_all_commits=false&count_private=true&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&hide_border=false)
 
-![Top Langs](https://github-stats-orcin-five.vercel.app/api/top-langs?username=adzaky&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false)
+![Top Langs](https://github-stats-orcin-five.vercel.app/api/top-langs?username=adzaky&hide=assembly,c,c%2B%2B,java,jupyter%20notebook,kotlin,makefile,perl,shell&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false)
 
 ![Streak](https://github-readme-streak-stats-mu-inky.vercel.app?user=adzaky&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)
